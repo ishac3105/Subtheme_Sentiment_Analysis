@@ -90,12 +90,12 @@ The script prints the sentiment for each aspect and problem in the specified rev
 
 Subtheme Sentiments:
 
-garage service positive
+-- garage service positive
 
-wait time negative
+-- wait time negative
 
-booking positive
+-- booking positive
 
-value positive
+-- value positive
 
-money positive
+-- money positive
