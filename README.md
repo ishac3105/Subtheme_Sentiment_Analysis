@@ -1,5 +1,8 @@
 # Subtheme_Sentiment_Analysis
 
+<img src="https://github.com/ishac3105/Subtheme_Sentiment_Analysis/assets/71486274/d949ee06-8a81-4ef5-aa10-22e2ac42ca80" width="800"/>
+
+
 
 This project performs sentiment analysis on text data, specifically focusing on predefined aspects and problems within customer reviews. The sentiment analysis aims to identify positive, negative, and neutral sentiments associated with different aspects and problems.
 
